@@ -15,7 +15,7 @@ Volleyball score tracker.
   <img src="https://github.com/bahattinkoc/VolleyScore/blob/main/Assets/screen.gif" alt="Volleyball score tracker">
 </div>
 
-## Contributing to DropColour
+## Contributing to VolleyScore
 
 We :heart: your feedback! If you notice any bug or want a new feature, just [open an Issue](https://github.com/elpassion/DropColour-iOS/issues/new)!
 
