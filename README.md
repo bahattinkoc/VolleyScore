@@ -1,7 +1,8 @@
-![platform](https://img.shields.io/badge/platform-iOS-brightgreen.svg)
-![langauge Swift](https://img.shields.io/badge/language-SwiftUI-brightgreen.svg)
-![app version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
-[![License MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
+<div align="center">
+
+![Swift](https://img.shields.io/badge/Swift-v5-orange) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-blue) ![iOS](https://img.shields.io/badge/iOS-17%2B-blueviolet) ![macOS](https://img.shields.io/badge/macOS-Sonoma-red) [![All Contributors](https://img.shields.io/badge/contributors-1-orange)](#Contributors)
+
+</div>
 
 <div align="center">
   <img src="https://github.com/bahattinkoc/VolleyScore/blob/main/Assets/iconCorner.png" alt="Volleyball score tracker" width="200" height="200">
