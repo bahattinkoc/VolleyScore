@@ -44,7 +44,7 @@ struct ContentView: View {
                         .resizable()
                         .aspectRatio(contentMode: .fit)
                         .frame(width: 40)
-                        .foregroundStyle(.white)
+                        .foregroundStyle(.primary)
                 })
                 .padding()
 
